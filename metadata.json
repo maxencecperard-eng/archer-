@@ -1,0 +1,8 @@
+{
+  "name": "Archero 2 - Rogue Archer Arena & PRD Studio",
+  "description": "Jeu de combat roguelike inspiré d'Archero 2 avec mécaniques de tir et d'esquive fluides, progression de compétences procédurale, orbes d'XP, et suite documentaire PRD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
